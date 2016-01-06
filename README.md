@@ -10,4 +10,4 @@ Information about Virtualizor API can be found at http://www.virtualizor.com/ (S
 
 
 # Docs
-[Documentation](https://www.boxcontrol.net/virtualizor-api.html)
+[Documentation](https://www.boxcontrol.net/python-library-for-virtualizor-enduser-api.html)
